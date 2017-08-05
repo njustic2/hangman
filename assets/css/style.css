@@ -1,0 +1,85 @@
+body {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 34px;
+  color: #777;
+  background-color: purple;
+  /*background: url("../images/concrete_seamless.png");*/
+}
+
+.jumbotron {
+ 
+ }
+ 
+ p {
+  font-size: 80px;
+  font-weight: 700;
+ } 
+
+h1{
+  font-family: Georgia, Times, "Times New Roman", serif;
+  font-weight: 700;
+  color: #4aaaa5;
+  padding-bottom: 20px;
+  font-size: 90px;
+  line-height: 50px;
+  /*margin-bottom: 20px;*/
+}
+
+/* main */
+
+#main-container{
+  float: center;
+  padding: 25px;
+  margin-top: 50px;
+  margin-left: 200px;
+  margin-bottom: 20px;
+  background: black;
+  border: 3px solid white;
+  width: 1024px;
+  padding-top: 10px;
+  height: 700px;
+}
+
+
+h2 {
+  position: absolute;
+  width: 50px;
+  font-weight: 300;
+  line-height: 50px;
+  font-size: 24px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  line-height: 50px;
+ }
+
+.section {
+  float: left;
+  width: 100%;
+  max-width: 650px;
+  padding: 30px;
+  margin: 0 0 40px;
+  background: #fff;
+  /*border: 1px solid #ddd;*/
+}
+
+.aboutme {
+  font-family: "Georgia", "Times", "Times New Roman", "serif";
+  color: #51a9a4;
+  font-color: rgb(225,225,225); 
+}
+
+#photo {
+  width: 300px;
+  height: 300px;
+}
+
+h1 {
+  padding-bottom: 20px;
+  font-size: 30px;
+  line-height: 49px;
+  border-bottom: 3px solid #ddd;
+}
+
+
